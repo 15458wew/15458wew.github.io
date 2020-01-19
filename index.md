@@ -19,4 +19,4 @@
 As an algorithm engineer, he is responsible for improving the accuracy of the ASR model. At the same time, he is responsible for scientific research and has completed three articles.
 
 ## Academic Work
-Speech2speech：learning from a generative model
+Speech2speech：learning from a generative model (under review)
