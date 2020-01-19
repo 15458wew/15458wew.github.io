@@ -11,12 +11,12 @@
 3. Generative model
 
 ## Learning Experience
-2016-2019 Beihang University  Master
-2012-2016 Yanshan University  Bachelor
+ 2016-2019 Beihang University  Master
+ 2012-2016 Yanshan University  Bachelor
 
 ## Work Experience
 2019 - now  Pingan Technology Company 
-As an algorithm engineer, he is responsible for improving the accuracy of the ASR model. At the same time, he is responsible for scientific research and has completed three articles.
+ As an algorithm engineer, he is responsible for improving the accuracy of the ASR model. At the same time, he is responsible for scientific research and has completed three articles.
 
 ## Academic Work
 Speech2speech：learning from a generative model (under review)
